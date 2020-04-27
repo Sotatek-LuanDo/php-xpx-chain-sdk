@@ -1,5 +1,5 @@
 {
-    "name": "myProximax/php-xpx-chain-sdk",
+    "name": "proximax/php-xpx-chain-sdk",
     "description": "Composer Package for PHP, Wrapper to use the ProximaX Sirius-Chain REST API and SDK.",
     "keywords": ["proximax", "cryptocurrency", "api", "sdk", "restful", "proximax-php", "php-proximax"],
     "license": "MIT",
